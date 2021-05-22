@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[![DOI](https://zenodo.org/badge/368810154.svg)](https://zenodo.org/badge/latestdoi/368810154)
+
 You can use the [editor on GitHub](https://github.com/Vandana308/vandana308.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
